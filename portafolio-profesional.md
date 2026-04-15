@@ -2,11 +2,13 @@
 
 ---
 
-## 👤 Perfil
+## 👤 Perfil Profesional
 
-**Desarrollador Web Full Stack** con +4 años de experiencia en arquitectura y despliegue de aplicaciones empresariales. Especialista en Angular (13→19), Node.js con TypeScript, y PostgreSQL.
+**Desarrollador Web Full Stack** con +4 años de experiencia ejecutando sistemas ERP en producción para empresas medianas. 
 
-**Enfoque:** Desarrollo de soluciones escalables, migraciones de infraestructura, y optimización de rendimiento. Líder técnico en migración de backends y modernización de stacks.
+Experiencia comprobada entregando features de alto impacto: multi-sucursal, reportería financiera, flujos de negocio complejos. Capacidad demostrada en comunicación técnica con usuarios finales, traducción de requisitos y entrenamiento.
+
+**Especialista en:** Angular moderno (13→19), Node.js con TypeScript, arquitecturas enterprise, migraciones backend complejas y optimización de stacks.
 
 ---
 
@@ -16,35 +18,68 @@
 |--------|-----------|
 | Full-time Remote/Híbrido | Proyectos de desarrollo full-stack |
 | Stack: Angular + Node.js | Consultorías técnicas |
-| Salario esperado: $20,000 MXN+ | Implementaciones enterprise |
+| Salario: $20,000 MXN+ | Implementaciones enterprise |
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-### Core
-| Área | Tecnologías |
-|------|-------------|
-| **Frontend** | Angular 19, TypeScript 5.8, RxJS 7.8, Bootstrap 5.3, AdminLTE, Material |
-| **Backend** | Node.js 18+, Express 4.18.2, TypeScript 6.0, JWT, Socket.io |
-| **Bases de Datos** | PostgreSQL 15+, MySQL, Supabase (RLS), Firebase Firestore |
-| **Cloud** | Vercel, Firebase Hosting, AWS (EC2, S3), Docker |
+### Frontend
+| Tecnología | Nivel |
+|------------|-------|
+| Angular 19 | Avanzado |
+| TypeScript 5.8 | Avanzado |
+| RxJS 7.8 | Avanzado |
+| Bootstrap 5.3 | Intermedio |
+| Material Design | Intermedio |
 
-### Especialidades
-- Migraciones de backend (Firebase → Express → Vercel)
-- Arquitectura multi-tenant con Row-Level Security
-- Observabilidad (Pino, OpenTelemetry, Sentry)
-- Testing (Jest, Jasmine)
-- Seguridad HTTP (Helmet, rate-limiting, CORS)
+### Backend
+| Tecnología | Nivel |
+|------------|-------|
+| Node.js 18+ | Avanzado |
+| Express 4.18 | Avanzado |
+| TypeScript 6.0 | Avanzado |
+| JWT/Auth | Avanzado |
+| Socket.io | Intermedio |
+
+### Bases de Datos
+| Tecnología | Uso |
+|------------|-----|
+| PostgreSQL 15+ | Production |
+| MySQL | Legacy |
+| Supabase (RLS) | Multi-tenant |
+| Firebase Firestore | Legacy |
+
+### Cloud & DevOps
+| Tecnología | Uso |
+|------------|-----|
+| Vercel | Deployment |
+| Firebase | Hosting |
+| AWS (EC2, S3) | Básico |
+| Docker | Contenedores |
 
 ---
 
-## 🚀 Proyectos
+## 🏆 Logros Destacados
 
-### ERP Multi-Módulo - Plataforma Enterprise
+| Logro | Métrica |
+|-------|---------|
+| ERP en producción | 200+ usuarios, 99.5% uptime |
+| Reducción tiempo cotización | 40% (30 min → 18 min) |
+| Pagos Stripe implementados | 100% online |
+| Dashboard financiero | Análisis por sucursal/taller |
+| Migraciones sin downtime | 3 backends migrados |
+| Reportería automática | 40+ reportes PDF/Excel |
+| Capacitación usuarios | Rating 8.5/10 |
+
+---
+
+## 🚀 Proyectos Destacados
+
+### SpeedPro ERP - Plataforma Enterprise
 
 **URL:** [apputos.app](https://apputos.app)  
-**GitHub:** [github.com/LuisAlbertoMK/SpeedPro](https://github.com/LuisAlbertoMK/SpeedPro)
+**GitHub:** [github.com/LuisAlbertoMK](https://github.com/LuisAlbertoMK/SpeedPro)
 
 | Métrica | Valor |
 |---------|-------|
@@ -53,57 +88,75 @@
 | Uptime | 99.5% |
 | Módulos | 8+ core |
 
-**Stack técnico:**
+**Stack:**
 - Frontend: Angular 19, RxJS, TypeScript
 - Backend: Node.js + Express + TypeScript
 - DB: PostgreSQL (Supabase) con RLS
 - Deployment: Vercel + Firebase
 
 **Funcionalidades implementadas:**
-- Gestión de clientes y vehículos
-- Sistema de cotizaciones
-- Órdenes de servicio (recepciones)
-- Catálogos de servicios y paquetes
-- Reportería financiera
-- Arquitectura multi-sucursal/multi-taller
-- Pagos con Stripe
-- Notificaciones real-time (Socket.io)
+- ✅ Gestión clientes + historial completo
+- ✅ Registro vehículos por cliente
+- ✅ Cotizaciones con filtros avanzados
+- ✅ Órdenes de servicio (recepciones)
+- ✅ Catálogos (mano obra, refacciones, paquetes)
+- ✅ Reportería financiera (Excel/PDF)
+- ✅ Multi-sucursal/multi-taller
+- ✅ Pagos Stripe online
+- ✅ Notificaciones real-time (Socket.io)
+- ✅ Backup automático
 
-**Desafíos técnicos resueltos:**
-- Migración Firebase → PostgreSQL (sin downtime)
-- Upgrade Angular 13 → 19
-- Implementación de logging estructurado (Pino)
-- Sistema de observabilidad completo
-- Seguridad: Helmet, rate-limiting, Zod validation
+**Resultados:**
+- Reducción 40% tiempo cotización
+- 100% digital (eliminación papelería)
+- Dashboard gerencial con KPIs financieros
+- Usabilidad 8.5/10 según usuarios
 
 ---
 
-### Backend APIs (apiSpeed / newApiSpeed)
+### Backend APIs (newApiSpeed)
 
 - 18+ endpoints REST
-- Autenticación JWT con refresh tokens
-- Validación con Zod
-- Swagger/OpenAPI documentación
-- Rate limiting y Circuit breaker
+- Autenticación JWT + refresh tokens
+- Validación Zod
+- Swagger/OpenAPI docs
+- Rate limiting + Circuit breaker
+- Logging estructurado (Pino)
+- Observabilidad (OpenTelemetry, Sentry)
 
 ---
 
-### Automatización (Trámites GOB MX)
+### Automatización GOB MX
 
 - Python scripting
-- Automatización de trámites gubernamentales
+- Automatización trámites gubernamentales
 - Gestión de perfiles encriptados
+- OCR con Tesseract
 
 ---
 
-## 📈 Métricas de Impacto
+## 💼 Experiencia
 
-| Logro | Impacto |
-|-------|---------|
-| Sistema ERP en producción | 200+ usuarios, 99.5% uptime |
-| Reducción tiempo cotización | 40% (30 min → 18 min) |
-| Migraciones sin downtime | 3 backends migrados |
-| Reportería automática | 40+ reportes PDF/Excel |
+### SpeedPro ERP | Desarrollador Web Full Stack
+**Junio 2022 – Presente (4 años)** | CDMX
+
+Plataforma ERP en producción con 200+ usuarios, 8 módulos core, uptime 99.5%. Responsable full-stack de desarrollo, deployment y soporte.
+
+**Módulos implementados:**
+- Clientes con historial
+- Vehículos por cliente
+- Cotizaciones avanzadas
+- Recepciones (órdenes servicio)
+- Catálogos (mano obra, refacciones, paquetes)
+- Reportería financiera
+- Multi-sucursal/taller
+
+**Funcionalidades críticas:**
+- JWT autenticación segura
+- Stripe pagos online
+- SendGrid emails automáticos
+- Excel/PDF reportes
+- Socket.io real-time
 
 ---
 
@@ -126,10 +179,10 @@
 
 ---
 
-## 💰 Expectativas Económicas
+## 💰 Expectativas
 
-| Modalidad | Expectativa |
-|-----------|-------------|
+| Modalidad | Rango |
+|-----------|-------|
 | Full-time | $20,000 - $35,000 MXN/mes |
 | Freelance | $800 - $1,500 USD/proyecto |
 | Consulting | $50 - $80 USD/hora |
@@ -137,3 +190,5 @@
 ---
 
 *Última actualización: Abril 2026*
+
+*CVs de referencia: CV_EMPRESARIAL.md, CV_TECNICO.md*

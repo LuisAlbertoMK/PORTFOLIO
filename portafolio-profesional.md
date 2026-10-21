@@ -17,8 +17,7 @@ Experiencia comprobada entregando features de alto impacto: multi-sucursal, repo
 | Empleo | Freelance |
 |--------|-----------|
 | Full-time Remote/Híbrido | Proyectos de desarrollo full-stack |
-| Stack: Angular + Node.js | Consultorías técnicas |
-| Salario: $20,000 MXN+ | Implementaciones enterprise |
+| Stack: Angular + Node.js | Consultorías técnicas e implementaciones enterprise |
 
 ---
 
@@ -38,7 +37,7 @@ Experiencia comprobada entregando features de alto impacto: multi-sucursal, repo
 |------------|-------|
 | Node.js 18+ | Avanzado |
 | Express 4.18 | Avanzado |
-| TypeScript 6.0 | Avanzado |
+| TypeScript 5.8 | Avanzado |
 | JWT/Auth | Avanzado |
 | Socket.io | Intermedio |
 
@@ -176,16 +175,6 @@ Plataforma ERP en producción con 200+ usuarios, 8 módulos core, uptime 99.5%. 
 - **GitHub:** [github.com/LuisAlbertoMK](https://github.com/LuisAlbertoMK)
 - **LinkedIn:** [linkedin.com/in/luis-alberto-orozco](https://linkedin.com/in/luis-alberto-orozco)
 - **Ubicación:** CDMX, México
-
----
-
-## 💰 Expectativas
-
-| Modalidad | Rango |
-|-----------|-------|
-| Full-time | $20,000 - $35,000 MXN/mes |
-| Freelance | $800 - $1,500 USD/proyecto |
-| Consulting | $50 - $80 USD/hora |
 
 ---
 

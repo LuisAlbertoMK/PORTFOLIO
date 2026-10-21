@@ -58,7 +58,6 @@ Los portafolios fueron actualizados con información real de tus CVs:
 | Ubicación | CDMX, México |
 | GitHub | github.com/LuisAlbertoMK |
 | LinkedIn | linkedin.com/in/luis-alberto-orozco |
-| Pretensión | $20,000 MXN/mes |
 
 ### Stack actualizado
 - Angular 19 (migraciones 13→19)

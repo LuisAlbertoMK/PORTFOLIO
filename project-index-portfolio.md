@@ -55,12 +55,6 @@ github-profile-readme.md    # GitHub profile README
 - Freelance proyectos full-stack
 - Consultorías técnicas
 
-## Esper Salary
-
-- Full-time: $20,000 - $35,000 MXN/mes
-- Freelance: $800 - $1,500 USD/proyecto
-- Consulting: $50 - $80 USD/hora
-
 ## Proyectos Vinculados
 
 | Proyecto | Descripción | URL |

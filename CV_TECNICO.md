@@ -32,7 +32,7 @@ Arquitectura Backend (Dual Stack)
 
 Backend Original (MySQL): Express REST JavaScript. 18 endpoints: /auth (JWT), /clientes, /vehiculos, /cotizaciones, /recepciones, /servicios, /reportes, /gastos, /sucursales. Middleware CORS multi-origen, morgan logging, Socket.io real-time. Autenticación stateless JWT con refresh tokens.
 
-Backend Vercel (PostgreSQL): Node.js 18+ TypeScript 6.0, Express, Supabase client. Validación Zod (schemas + runtime checks). Logging Pino (structured JSON). Tracing OpenTelemetry. Error tracking Sentry. Security: Helmet headers, rate-limiting, CORS. Swagger docs auto-generadas.
+Backend Vercel (PostgreSQL): Node.js 18+ TypeScript 5.8, Express, Supabase client. Validación Zod (schemas + runtime checks). Logging Pino (structured JSON). Tracing OpenTelemetry. Error tracking Sentry. Security: Helmet headers, rate-limiting, CORS. Swagger docs auto-generadas.
 
 Migración MySQL → PostgreSQL sin downtime. RLS (Row-Level Security) para multi-tenancy. Índices optimizados, connection pooling, query plans analyzed.
 
